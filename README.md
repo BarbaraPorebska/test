@@ -1,6 +1,6 @@
 # test
 
 789
-konflikt
-kolejny konflikt do print screenow
-
+konflikt2
+kolejny konflikt
+wpisane z palca zmiany
